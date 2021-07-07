@@ -1,15 +1,17 @@
 # MOMObot
 
-> Version 1.1
+![version](https://img.shields.io/badge/version-1.1.0-blue?style=flat-square)
+![license](https://img.shields.io/github/license/1487quantum/momobot?style=flat-square)
+[![Documentation](https://img.shields.io/github/workflow/status/1487quantum/momobot/Documentation?label=Documentation&style=flat-square)](https://github.com/1487quantum/momobot/actions/workflows/sphinx.yml)
 
 ![MOMO_logo_full](./assets/MOMO_logo_full.png)
-
-
-[![Click to watch video!](assets/youtube_thumbnail.png)](https://youtu.be/F5m3qasmmTs)
 
 **MOMObot** (MOdular MObile Robot) is a **ROS enabled autonomous ground vehicle for service** by the **SUTD Organisation of Autonomous Robotics**!
 
 Based off of the [Linorobot](https://linorobot.org) framework!
+
+
+[![Click to watch video!](assets/youtube_thumbnail.png)](https://youtu.be/F5m3qasmmTs)
 
 **Features:**
 
