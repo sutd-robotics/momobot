@@ -1,8 +1,8 @@
 # MOMObot
 
 ![version](https://img.shields.io/badge/version-1.1.0-blue?style=flat-square)
-![license](https://img.shields.io/github/license/1487quantum/momobot?style=flat-square)
-[![Documentation](https://img.shields.io/github/workflow/status/1487quantum/momobot/Documentation?label=Documentation&style=flat-square)](https://github.com/1487quantum/momobot/actions/workflows/sphinx.yml)
+![license](https://img.shields.io/github/license/sutd-robotics/momobot?style=flat-square)
+[![Documentation](https://img.shields.io/github/workflow/status/sutd-robotics/momobot/Documentation?label=Documentation&style=flat-square)](https://github.com/sutd-robotics/momobot/actions/workflows/sphinx.yml)
 
 ![MOMO_logo_full](./assets/MOMO_logo_full.png)
 
@@ -26,7 +26,7 @@ Based off of the [Linorobot](https://linorobot.org) framework!
 - We prefer to use [catkin tools](<https://catkin-tools.readthedocs.io/en/latest/installing.html>) as well!
 
 ## Setup
-> View the full documentation [here](https://1487quantum.github.io/momobot)!
+> View the full documentation [here](https://sutd-robotics.github.io/momobot)!
 
 This repo contains an entire momobot workspace!
 
