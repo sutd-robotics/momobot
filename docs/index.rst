@@ -12,6 +12,10 @@ is a service AGV built for extensibility and to roam autonomously using ROS!
 Generating the documentation
 ----------------------------
 
+.. note::
+
+  Ensure that `sphinx <https://www.sphinx-doc.org/en/master/usage/installation.html>`_ is installed beforehand!
+
 To generate the documentation locally, git clone the repository & build
 the document.
 
